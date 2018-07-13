@@ -1,3 +1,3 @@
 # voronoi
-voronoi
-JAVA StdDraw.class
+# voronoi implement
+# JAVA StdDraw.class
